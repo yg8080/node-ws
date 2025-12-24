@@ -1,3 +1,11 @@
+创建名为Dockerfile的文件，格式如下：
+FROM ghcr.io/github用户名/镜像名:latest
+
+ENV DOMAIN=你的space域名或反代后的域名
+
+
+
+
 <div align="center">
 
 # Node-ws
